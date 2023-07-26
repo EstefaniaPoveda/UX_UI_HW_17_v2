@@ -11,7 +11,6 @@
     text-align: left;
     padding: 0 10px 10px;
     text-align: center;
-    outline: 1px solid red;
 }
 
 .logo img {
@@ -23,7 +22,6 @@
     padding: 1%;
     background-color: #D9D9D9;
     color: black;
-    outline: 1px solid red;
 }
 
 ul {
@@ -56,9 +54,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    outline: 1px solid red;
 }
 .navigation {
-    outline: 1px solid red;
     background-color: #D9D9D9;
 }
